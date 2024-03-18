@@ -1,3 +1,4 @@
+import contact from "./contact.jpg";
 export default function Contact() {
   return (
     <section className="w-full py-12 md:py-24 flex flex-wrap justify-center items-center">
@@ -52,7 +53,7 @@ export default function Contact() {
         </div>
         <div className="md:w-1/2">
           <img
-            src="./contact.jpg"
+            src={contact}
             alt="Contact"
             className="w-full h-auto rounded-badge"
           />
