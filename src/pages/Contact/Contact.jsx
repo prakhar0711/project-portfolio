@@ -52,7 +52,7 @@ export default function Contact() {
         </div>
         <div className="md:w-1/2">
           <img
-            src="../../../public/contact.jpg"
+            src="./contact.jpg"
             alt="Contact"
             className="w-full h-auto rounded-badge"
           />
