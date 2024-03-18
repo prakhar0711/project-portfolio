@@ -1,0 +1,19 @@
+.about-title-above {
+  /* Style the "About" text */
+  font-weight: bold;
+}
+
+.about-content {
+  /* Style the content section */
+  padding: 2rem; /* Add padding for better readability */
+}
+
+.about-text {
+  /* Style the text content */
+  line-height: 2; /* Increase line spacing for better readability */
+}
+
+.about-contact {
+  /* Style the contact information section */
+  border-left: 1px solid #ddd; /* Add a border to separate sections */
+}
