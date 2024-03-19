@@ -38,7 +38,7 @@ function Home() {
         <div className="flex flex-col sm:flex-row gap-4 mb-4 mt-4">
           <Link to="/contact">
             <button className="navb bg-[#b58863] hover:bg-[#d3c3b9] text-[#161618] font-bold py-2 px-4 sm:px-6 lg:px-8 rounded-lg mb-4 sm:mb-0">
-              Hire Me
+              Contact
             </button>
           </Link>
           <Link to="/about">
